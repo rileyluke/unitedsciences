@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>United Sciences</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		/* CSS styles go here */
+		body {
+			font-family: 'Montserrat', sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #0099ff; /* teal background color */
+			color: #FFFFFF;
+			text-align: left;
+			background-image: radial-gradient(circle, #00B1B1, #01828C, #005058);
+			background-size: cover;
+		}
+		.container {
+			max-width: 800px;
+			margin: 30vh auto 0;
+			padding: 20px;
+			text-align: justify;
+		}
+		h1 {
+			margin-top: 0;
+			margin-bottom: 10px;
+			text-align: left;
+			font-size: 48px;
+			line-height: 1;
+			font-family: 'El Messiri', sans-serif;
+			font-weight: 400;
+			color: #FFFFFF;
+		}
+		p {
+			font-size: 16px;
+			line-height: 1.5;
+			font-family: 'Tahoma', sans-serif;
+			margin-bottom: 20px;
+		}
+		a {
+			color: #FFFFFF;
+			text-decoration: underline;
+			font-weight: bold;
+		}
+	</style>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=El+Messiri&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="container">
+	    <h1>United Sciences</h1>
+		<p>Dedicated to the development and distribution of the highest-quality, highest-efficacy, nutraceuticals available anywhere in the world.</p>
+
+		<p>Grounded in scientific research and literature our preeminent nutraceuticals optimize health for the complete lifecycle, by promoting; younger bodies to grow-healthier, mature bodies to be-healthier, and our seniors to age-healthier – enhancing both healthspan, as well as our lifespan.</p>
+
+		<p>We are in constant pursuit of new avenues of research and cutting-edge technologies to identify the safest, most efficacious and superior quality ingredients for our nutraceuticals. We strive to be at the forefront of the rapidly growing nutraceuticals and dietary supplements industry.</p>
+
+		<p>United Sciences, where innovation meets longevity nutrition.</p>
+		<p>Get in touch <a href="mailto:luke@unitedsciences.co" style="color: #FFFFFF; text-decoration: underline; font-weight: bold;">here</a>.</p>
+	</div>
+</body>
+</html>
